@@ -1,2 +1,2 @@
-# demo-repo
-Test Repo free coding camp
+# Demo
+I am just trying out github.
